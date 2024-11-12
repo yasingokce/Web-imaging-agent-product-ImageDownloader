@@ -1,7 +1,7 @@
 # Web-imaging-agent-product-ImageDownloader
 This product downloads album covers from the internet. It is prepared with today's technologies.
 Web Image Downloader
-Web Image Downloader is a powerful web-based program that can automatically download millions of high-quality images. This application is specifically designed for graphic designers and companies offering print services, making the process of collecting visuals fast and efficient.
+Web Image Downloader is a powerful desktop program that can automatically download millions of high-quality images. This application is specifically designed for graphic designers and companies offering print services, making the process of collecting visuals fast and efficient.
 
 ## Features
 High-Quality Images: The majority of the images downloaded from the web are in high resolution, making them suitable for design and print applications.
