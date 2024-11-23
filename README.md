@@ -12,5 +12,4 @@ Graphic Design Studios: Provides access to a wide variety of high-quality images
 Printing Companies: Printing companies that provide visual content for clients can easily access high-resolution images with this application.
 ## Accessing the Application
 This software is available as a specialized tool. For access and further information, please contact me directly.
-## Sample Screenshot
-![Ekran görüntüsü 2024-11-11 113546](https://github.com/user-attachments/assets/e5cf9700-2463-4994-af47-440eaef8896a)
+
